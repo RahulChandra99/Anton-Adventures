@@ -6,9 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/AntonGame/Scenes/MainMenu.unity
-    guid: 12c6f21fe54f55644906fa8b8a9715d5
-  - enabled: 1
     path: Assets/AntonGame/Scenes/HouseLevel.unity
     guid: 609116c006f6d034980cd844d4a58208
   - enabled: 1
